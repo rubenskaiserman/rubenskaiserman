@@ -1,6 +1,6 @@
 ## Oioi! Eu sou Rubens, um desenvolvedor meio novo na comunidade.
 
-#### Muito prazer em te conhecer. Sou mais ou menos novo por aqui, estou aprendendo a me integrar com a comunidade, mas enfim. Tenho alguns mini projetinhos legais aqui dentro, e estou no momento construindo um repositório com tudo que eu aprendi no meu curso de informática integrada ao ensino médio.
+#### Muito prazer em te conhecer. Estou aprendendo a me integrar com a comunidade, mas enfim. Tenho alguns mini projetinhos legais aqui dentro, e estou no momento construindo um repositório com tudo que eu aprendi no meu curso de informática integrada ao ensino médio, e é isso aí.
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
