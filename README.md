@@ -29,7 +29,6 @@
 - #### Pretendo fazer faculdade. Se vai ser matemática aplicada, física, engenharia (eletrônica, mecânica, mecatrônica, de computação, aeroespácial) ou algo diferente, é uma questão em aberto
 - #### Estou buscando trabalho na área de desenvolvimento de software. As duas razões principais são: Preciso de dinheiro e porque eu quero.
 - #### Tenho interesse em muita coisa. O que vou perseguir como carreira eu não sei. Talvez eu siga como desenvolvedor de software, talvez eu vá para ciência de dados ou segurança da informação. Quem sabe eu siga por um caminho diferente e vá trabalhar como engenheiro mecânico, as opções são vastas e eu sou jovem.
-- #### Como eu disse, tenho muitos interesses, desde o mercado financeiro até engenharia aeroespácial. Trabalharia com muita alegria em qualquer um desses lugares.
 - #### Além disso, um desejo meu é em algum momento trabalhar a distância e passar um tempo viajando pelo mundo. Mas isso está mais para um sonho. (Vai rolar)
 
 ## O que eu ando usando
