@@ -22,7 +22,7 @@
 
 ## Trabalhando em
 - #### Estou construindo um repositório/apostila contendo todo o conteúdo do meu curso de informática
-- #### Estou construindo o backend de um site que vai permitir o acesso às especificações técnicas de milhares de carros
+- #### Estou construindo o backend de um site que vai permitir o acesso às especificações técnicas de milhares de carros(Trabalho final de web avançado)
 - #### Estou trabalhando na construção de uma bomba de glitter usando arduíno e criatividade
 
 ## Planos pro futuro
