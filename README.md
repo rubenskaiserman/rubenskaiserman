@@ -24,6 +24,7 @@
 - #### Estou construindo um repositório/apostila contendo todo o conteúdo do meu curso de informática
 - #### Estou construindo o backend de um site que vai permitir o acesso às especificações técnicas de milhares de carros(Trabalho final de web avançado)
 - #### Estou trabalhando na construção de uma bomba de glitter usando arduíno e criatividade
+- #### Estou atualmente atuando como bolsista de monitoria(aluno professor) de programação com linguagem Java no Instituto Federal do Rio de Janeiro 
 
 ## Planos pro futuro
 - #### Pretendo fazer faculdade. Se vai ser matemática aplicada, física, engenharia (eletrônica, mecânica, mecatrônica, de computação, aeroespácial) ou algo diferente, é uma questão em aberto
