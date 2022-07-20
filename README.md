@@ -30,19 +30,18 @@
 ## Planos pro futuro
 - #### Estou buscando trabalho na área de desenvolvimento de software. As duas razões principais são: Preciso de dinheiro e porque eu quero.
 - #### Pretendo trocar de curso universitário para algo na área de Engenharia (Eletrônica, de Computação, Mecatrônica, Mecânica, Elétrica ou similares)
-- #### Tenho interesse em muita coisa. O que vou perseguir como carreira eu não sei. Talvez eu siga como desenvolvedor de software, talvez eu vá para ciência de dados ou segurança da informação. Quem sabe eu siga por um caminho diferente e vá trabalhar como engenheiro mecânico, as opções são vastas e eu sou jovem.
 - #### Por enquanto, estou interessado em desenvolver mais meus conhecimentos na área de backend development, em especial para Web. Depois disso ainda não sei o que farei, mas no momento também estou interessado em segurança da informação e temas correlatos.
 - #### Além disso, um desejo meu é em algum momento trabalhar a distância e passar um tempo viajando.
 
 ## O que eu ando usando
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="47" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <br>
   <br>
