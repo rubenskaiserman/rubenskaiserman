@@ -25,7 +25,7 @@
 
 ## Trabalhando em
 - #### Estou construindo um repositório/apostila contendo todo o conteúdo do meu curso de informática
-- #### Estou trabalhando na construção de uma bomba de glitter usando arduíno e criatividade 
+- #### Estou construindo um blog/web app para mim com Node.js, Express, React e PostgreSQL
 
 ## Planos pro futuro
 - #### Estou buscando trabalho na área de desenvolvimento de software. As duas razões principais são: Preciso de dinheiro e porque eu quero.
