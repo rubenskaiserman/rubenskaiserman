@@ -3,8 +3,8 @@
 ## Experiência
 - #### 3 Meses como Desenvolvedor FullStack independente para projeto acadêmico
 - #### 2 Meses como Aluno Monitor de programação em Java
-- #### 6 meses como Web Designer
-- #### 12 meses como pesquisador/desenvolvedor mobile
+- #### 6 meses como Estagiário de Web Design na Prep Change
+- #### 12 meses como pesquisador/desenvolvedor mobile para pesquisa no IFRJ
 - #### Tudo mais que estiver nesse github
 
 ## Estudos
