@@ -8,9 +8,9 @@
 - #### Tudo mais que estiver nesse github
 
 ## Estudos
-- #### Bacharelando em Matemática na UFRJ
-- #### Técnico em Informática pelo IFRJ
-- #### Iniciação ciêntifica em Matemática pelo Instituto Nacional de Matemática Pura e Aplicada(IMPA)
+- #### Bacharelando em Matemática na Universidade Federal do Rio de Janeiro (UFRJ)
+- #### Técnico em Informática pelo Instituto Federal do Rio de Janeiro (IFRJ)
+- #### Iniciação ciêntifica em Matemática pelo Instituto Nacional de Matemática Pura e Aplicada (IMPA)
 - #### Cursos adicionais nas áreas de Web, Mobile com Flutter, Desktop com Java, Banco de dados MySQL e Línguagem de programação Python.
 - #### Estudos autônomos de Bibliotecas Python para automação web e ciência de dados
 - #### Estudos autônomos de linguagem C/C++, Banco de dados PostgreSQL e no que mais me interessou
@@ -24,13 +24,14 @@
 - #### A lista pode continuar por um tempo...
 
 ## Trabalhando em
+- #### Estou auxiliando um ex-professor meu na construção de materiais de Node.js, Express, React e criação de APIs
 - #### Estou construindo um repositório/apostila contendo todo o conteúdo do meu curso de informática
 - #### Estou construindo um blog/web app para mim com Node.js, Express, React e PostgreSQL
 
 ## Planos pro futuro
-- #### Estou buscando trabalho na área de desenvolvimento de software. As duas razões principais são: Preciso de dinheiro e porque eu quero.
+- #### Estou buscando trabalho na área de desenvolvimento de software.
 - #### Pretendo trocar de curso universitário para algo na área de Engenharia (Eletrônica, de Computação, Mecatrônica, Mecânica, Elétrica ou similares)
-- #### Por enquanto, estou interessado em desenvolver mais meus conhecimentos na área de backend development, em especial para Web. Depois disso ainda não sei o que farei, mas no momento também estou interessado em segurança da informação e temas correlatos.
+- #### Por enquanto, estou interessado em desenvolver mais meus conhecimentos na área de backend development, em especial para Web. Depois disso ainda irei selecionar meu próximo objetivo, mas no momento também estou interessado em segurança da informação e temas correlatos.
 - #### Além disso, um desejo meu é em algum momento trabalhar a distância e passar um tempo viajando.
 
 ## O que eu ando usando
