@@ -1,4 +1,4 @@
-## Olá, olá! Eu sou Rubens. Um técnico em informática que quer construir o futuro.
+## Oioi, sou um desenvolvedor backend muito do curioso
 
 ## Experiência
 - #### 2 Meses como consultor na área de desenvolvimento web básico para educação
