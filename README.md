@@ -1,8 +1,9 @@
 # Rubskaiserman
-### Muito prazer. Sou um desenvolvedor muito do curioso
-Sou um desenvolvedor backend, bacharelando em matemática, técnico em informática, e um grande curioso. Ultimamente tenho dado consultoria sobre o básico de desenvolvimento backend com  JavaScript e trabalhado em alguns projetos pessoais. Tenho experiêcia principalmente trabalhando com construção de APIs com Flask. Já mexi com desenvolvimento Mobile e automação web e hoje em dia estou em busca de aprimorar minhas capacidades e construir tecnologias cada vez mais doidas.
+**`Backend Developer`**
 
-## O que eu ando usando
+Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnico em informática, e um grande curioso. No momento atual estou desenvolvendo minhas capacidades e pensando em pequenos projetos divertidos nos quais eu posso trabalhar.
+
+### O que eu ando usando
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -18,6 +19,8 @@ Sou um desenvolvedor backend, bacharelando em matemática, técnico em informát
   <img align="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
+
+#
 
 <details>
   <summary><h3>Experiência<h3></summary>
@@ -40,7 +43,7 @@ Sou um desenvolvedor backend, bacharelando em matemática, técnico em informát
 </details>
 
 <details>
-  <summary><h3>Estudos<h3></summary>
+  <summary><h3>Interesses<h3></summary>
   <li>Backend Development</li>
   <li>Embedded Systems</li>
   <li>Cybersecurity</li>
