@@ -5,11 +5,9 @@ Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnic
 
 ### O que eu ando usando
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="43" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <br>
@@ -24,7 +22,7 @@ Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnic
 
 <details>
   <summary><h3>Experiência<h3></summary>
-  <li>Atualmente atuando como estagiário de engenharia de software para construção de soluções para assistentes de voz</li>
+  <li>Atualmente estagiando na área de engenharia de software para construção de soluções para assistentes de voz</li>
   <li>2 Meses como consultor na área de desenvolvimento web básico para educação</li>
   <li>3 Meses como Desenvolvedor FullStack independente para projeto acadêmico</li>
   <li>2 Meses como Aluno Monitor de programação em Java</li>
