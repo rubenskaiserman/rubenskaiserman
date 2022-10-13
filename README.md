@@ -1,7 +1,7 @@
 # Rubskaiserman
 **`Backend Developer`**
 
-Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnico em informática, e um grande curioso. No momento atual estou desenvolvendo minhas capacidades e pensando em pequenos projetos divertidos nos quais eu posso trabalhar.
+Muito prazer. Sou Rubens Kaiserman, atualmente estou estagiando como desenvolvedor backend de sistemas de assistente de voz. Também estou cursando bacharelado em ciências matemáticas e da terra na UFRJ, no geral buscando por aprimoramento. Tenho interesses diversos mas no momento estou focado em melhorar minhas capacidades como desenvolvedor backend. Se quiser trocar uma ideia sobre tecnologia no geral, sinta-se a vontade para me mandar mensagem por dm. Minhas redes estão aí.
 
 ### O que eu ando usando
 <div style="display: inline_block"><br>
