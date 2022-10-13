@@ -26,7 +26,6 @@ Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnic
   <li>2 Meses como consultor na área de desenvolvimento web básico para educação</li>
   <li>3 Meses como Desenvolvedor FullStack independente para projeto acadêmico</li>
   <li>2 Meses como Aluno Monitor de programação em Java</li>
-  <li>6 meses como Estagiário de Web Design na Prep Change</li>
   <li>12 meses como pesquisador/desenvolvedor mobile para pesquisa no IFRJ</li>
 </details>
 
