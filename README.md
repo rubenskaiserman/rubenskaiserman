@@ -43,8 +43,9 @@ Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnic
 <details>
   <summary><h3>Interesses<h3></summary>
   <li>Backend Development</li>
-  <li>Embedded Systems</li>
+  <li>Artificial Inteligence</li>
   <li>Cybersecurity</li>
-  <li>Data Science</li>
   <li>Arquitetura de Software</li>
+  <li>Data Science</li>
+  <li>Embedded Systems</li>
 </details>
