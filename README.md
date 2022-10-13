@@ -24,6 +24,7 @@ Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnic
 
 <details>
   <summary><h3>Experiência<h3></summary>
+  <li>Atualmente atuando como estagiário de engenharia de software para construção de soluções para assistentes de voz</li>
   <li>2 Meses como consultor na área de desenvolvimento web básico para educação</li>
   <li>3 Meses como Desenvolvedor FullStack independente para projeto acadêmico</li>
   <li>2 Meses como Aluno Monitor de programação em Java</li>
@@ -33,7 +34,7 @@ Muito prazer. Sou um desenvolvedor backend, bacharelando em matemática, técnic
 
 <details>
   <summary><h3>Estudos<h3></summary>
-  <li>Bacharelando em Matemática na Universidade Federal do Rio de Janeiro (UFRJ)</li>
+  <li>Bacharelando em Ciências Matemáticas e da Terra na Universidade Federal do Rio de Janeiro (UFRJ)</li>
   <li>Técnico em Informática pelo Instituto Federal do Rio de Janeiro (IFRJ)</li>
   <li>Iniciação científica em Matemática pelo Instituto Nacional de Matemática Pura e Aplicada (IMPA)</li>
   <li>Cursos adicionais nas áreas de Web, Mobile com Flutter, Desktop com Java, Banco de dados MySQL e Línguagem de programação Python.</li>
