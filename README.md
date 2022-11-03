@@ -1,5 +1,5 @@
 # Rubskaiserman
-**`Backend Developer`**
+**`Backend Developer`** **`Mathematical Sciences Undergraduate Student`** **`CS Technician`**
 
 Muito prazer. Sou Rubens Kaiserman, atualmente estou estagiando como desenvolvedor backend de sistemas de assistente de voz. Também estou cursando bacharelado em ciências matemáticas e da terra na UFRJ, no geral buscando por aprimoramento. Tenho interesses diversos mas no momento estou focado em melhorar minhas capacidades como desenvolvedor. Se quiser trocar uma ideia sobre tecnologia no geral, sinta-se a vontade para me mandar mensagem por dm. Minhas redes estão aí.
 
@@ -20,11 +20,11 @@ Muito prazer. Sou Rubens Kaiserman, atualmente estou estagiando como desenvolved
 
 <details>
   <summary><h3>Experiência<h3></summary>
-  <li>Atualmente estagiando na área de engenharia de software para construção de soluções para assistentes de voz</li>
-  <li>2 Meses como consultor na área de desenvolvimento web básico para educação</li>
-  <li>3 Meses como Desenvolvedor FullStack independente para projeto acadêmico</li>
-  <li>2 Meses como Aluno Monitor de programação em Java</li>
-  <li>12 meses como pesquisador/desenvolvedor mobile para pesquisa no IFRJ</li>
+  <li>Desenvolvedor de software para assistentes de voz</li>
+  <li>Consultor de tecnologias web para educação técnica</li>
+  <li>Python Freelancer fullstack developer </li>
+  <li>Aluno monitor de programação com Java no IFRJ</li>
+  <li>Bolsista de pesquisa em desenvolvimento de mobile apps</li>
 </details>
 
 <details>
@@ -32,18 +32,15 @@ Muito prazer. Sou Rubens Kaiserman, atualmente estou estagiando como desenvolved
   <li>Bacharelando em Ciências Matemáticas e da Terra na Universidade Federal do Rio de Janeiro (UFRJ)</li>
   <li>Técnico em Informática pelo Instituto Federal do Rio de Janeiro (IFRJ)</li>
   <li>Iniciação científica em Matemática pelo Instituto Nacional de Matemática Pura e Aplicada (IMPA)</li>
-  <li>Cursos adicionais nas áreas de Web, Mobile com Flutter, Desktop com Java, Banco de dados MySQL e Línguagem de programação Python.</li>
-  <li>Desenvolvimento de APIs com Flask</li>
-  <li>Desenvolvimento backend com Node.js e Express</li>
-  <li>Automação Web com Selenium</li>
+  <li>Estudos autodirigidos na área de engenharia de software</li>
 </details>
 
 <details>
   <summary><h3>Interesses<h3></summary>
   <li>Backend Development</li>
   <li>Artificial Inteligence</li>
-  <li>Cybersecurity</li>
   <li>Arquitetura de Software</li>
+  <li>Cybersecurity</li>
   <li>Data Science</li>
   <li>Embedded Systems</li>
 </details>
