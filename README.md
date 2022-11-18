@@ -38,9 +38,9 @@ Muito prazer. Sou Rubens Kaiserman, atualmente estou estagiando como desenvolved
 <details>
   <summary><h3>Interesses<h3></summary>
   <li>Backend Development</li>
-  <li>Artificial Inteligence</li>
-  <li>Arquitetura de Software</li>
+  <li>Software Architecture</li>
   <li>Cybersecurity</li>
+  <li>Artificial Inteligence</li>
   <li>Data Science</li>
   <li>Embedded Systems</li>
 </details>
