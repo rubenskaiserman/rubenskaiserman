@@ -23,7 +23,7 @@ No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto 
 
 <details>
   <summary><h3>Experiência<h3></summary>
-  <li>Backend Web/Voice Assistant Developer</li>
+  <li>Backend Web/Voice Assistant Developer (AWS, NestJS, React, Alexa Skills Kit & More)</li>
   <li>Web Developer Freelancer (FullStack Express + React)</li>
   <li>Web Developer Freelancer (Fullstack Flask + HTML, CSS, JS)</li>
   <li>Monitor de Programação IFRJ (Java + MySQL)</li>
