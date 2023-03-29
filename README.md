@@ -1,5 +1,5 @@
 # rubskaiserman
-**`Backend Developer`** **`Mathematical Sciences Undergraduate Student`** **`CS Technician`**
+**`Backend Developer`** **`Virtual Assistant Developer`** **`Mathematical Sciences Undergraduate Student`** **`CS Technician`**
 
 Muito prazer. Sou Rubens Kaiserman, engenheiro de software. Atualmente trabalhando como Backend Web e como desenvolvedor de aplicações para assistentes de voz (Skills Alexa e Actions Google Assistente). 
 No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto muito de ciência de dados, automatização de tarefas e atualmente estou me aprofundandando em soluções Cloud e aprendendo mais sobre segurança da informação.
