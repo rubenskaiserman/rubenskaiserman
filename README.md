@@ -42,10 +42,10 @@ No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto 
 <details>
   <summary><h3>Interesses<h3></summary>
   <li>Backend Development</li>
-  <li>Cloud Computing</li>
   <li>Artificial Inteligence</li>
-  <li>Embedded Systems</li>
   <li>Data Science</li>
+  <li>Cloud Computing</li>
   <li>Cybersecurity</li>
   <li>Software Architecture</li>
+  <li>Embedded Systems</li>
 </details>
