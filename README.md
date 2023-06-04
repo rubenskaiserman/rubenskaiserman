@@ -24,28 +24,34 @@ No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto 
 
 <details>
   <summary><h3>Experiência<h3></summary>
-  <li>Backend Web/Voice Assistant Developer (AWS, NestJS, NextJS, React, Alexa Skills Kit & More)</li>
-  <li>Web Developer Freelancer (FullStack Express + React)</li>
-  <li>Web Developer Freelancer (Fullstack Flask + HTML, CSS, JS)</li>
-  <li>Monitor de Programação IFRJ (Java + MySQL)</li>
-  <li>Desenvolvedor Mobile Bolsista de pesquisa (Dart + Flutter + Firebase)</li>
+  <ul>
+    <li>Backend Web/Voice Assistant Developer (AWS, NestJS, NextJS, React, RPA with Python, Alexa Skills Kit & More)</li>
+    <li>Web Developer Freelancer (FullStack Express + React)</li>
+    <li>Web Developer Freelancer (Fullstack Flask + HTML, CSS, JS)</li>
+    <li>Monitor de Programação IFRJ (Java + MySQL)</li>
+    <li>Desenvolvedor Mobile Bolsista de pesquisa (Dart + Flutter + Firebase)</li>
+  </ul>
 </details>
 
 <details>
   <summary><h3>Estudos<h3></summary>
-  <li>Bach. Ciências Matemáticas e da Terra (Universidade Federal do Rio de Janeiro - UFRJ)</li>
-  <li>Técnico. Informática (Instituto Federal do Rio de Janeiro - IFRJ)</li>
-  <li>Iniciação Científica. Matemática (Instituto Nacional de Matemática Pura e Aplicada - IMPA)</li>
-  <li>Cursos Web + Estudos Autodirigidos. Desenvolvimento de Software</li>
+  <ul>
+    <li>Bach. Ciências Matemáticas e da Terra (Universidade Federal do Rio de Janeiro - UFRJ)</li>
+    <li>Técnico. Informática (Instituto Federal do Rio de Janeiro - IFRJ)</li>
+    <li>Iniciação Científica. Matemática (Instituto Nacional de Matemática Pura e Aplicada - IMPA)</li>
+    <li>Cursos Web + Estudos Autodirigidos. Desenvolvimento de Software</li>
+  <ul>
 </details>
 
 <details>
   <summary><h3>Interesses<h3></summary>
-  <li>Backend Development</li>
-  <li>Artificial Inteligence</li>
-  <li>Data Science</li>
-  <li>Cloud Computing</li>
-  <li>Cybersecurity</li>
-  <li>Software Architecture</li>
-  <li>Embedded Systems</li>
+  <ul>
+    <li>Backend Development</li>
+    <li>Artificial Inteligence</li>
+    <li>Data Science</li>
+    <li>Cloud Computing</li>
+    <li>Cybersecurity</li>
+    <li>Software Architecture</li>
+    <li>Embedded Systems</li>
+  </ul>
 </details>
