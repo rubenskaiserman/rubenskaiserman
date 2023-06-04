@@ -1,5 +1,5 @@
 # Rubens Kaiserman
-**`Software Engineer`** **`Mathematical Sciences Undergraduate Student`** **`Computer Science Technician`**
+**`FullStack Software Engineer`** **`Mathematical Sciences Undergraduate Student`** **`Computer Science Technician`**
 
 Muito prazer. Sou Rubens Kaiserman, engenheiro de software. Atualmente trabalhando como Backend Web e como desenvolvedor de aplicações para assistentes de voz (Skills Alexa e Actions Google Assistente). 
 No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto muito de ciência de dados, automatização de tarefas e atualmente estou me aprofundandando em soluções Cloud e aprendendo mais sobre segurança da informação.
@@ -25,7 +25,7 @@ No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto 
 <details>
   <summary><h3>Experiência<h3></summary>
   <ul>
-    <li>Backend Web/Voice Assistant Developer (AWS, NestJS, NextJS, React, RPA with Python, Alexa Skills Kit & More)</li>
+    <li>FullStack Software Engineer (AWS, NestJS, NextJS, React, RPA with Python, Alexa Skills Kit & More)</li>
     <li>Web Developer Freelancer (FullStack Express + React)</li>
     <li>Web Developer Freelancer (Fullstack Flask + HTML, CSS, JS)</li>
     <li>Monitor de Programação IFRJ (Java + MySQL)</li>
