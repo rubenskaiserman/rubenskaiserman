@@ -25,7 +25,7 @@ No geral gosto de diversificar minhas aventuras pelo mundo da tecnologia. Gosto 
 <details>
   <summary><h3>Experiência<h3></summary>
   <ul>
-    <li>FullStack Software Engineer (AWS, NestJS, NextJS, React, RPA with Python, Alexa Skills Kit & More)</li>
+    <li>FullStack Software Engineer (AWS Lambda, NestJS, MySQL, AWS Dynamo, NextJS, React, RPA with Python, Alexa Skills Kit  & More)</li>
     <li>FullStack Web Developer Freelancer (FullStack Express + React)</li>
     <li>FullStack Web Developer Freelancer (Fullstack Flask + HTML, CSS, JS)</li>
     <li>Monitor de Programação IFRJ (Java + MySQL)</li>
