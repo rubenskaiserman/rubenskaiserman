@@ -41,7 +41,7 @@ Well, that's a fairly straightforward story of my software engineering journey. 
 </details>
 
 <details>
-  <summary><h3>Estudos<h3></summary>
+  <summary><h3>Studies<h3></summary>
   <ul>
     <li>Bach. Mathematical Sciences (Federal University of Rio de Janeiro - UFRJ)</li>
     <li>Técnico. Informática (Federal Institute of Rio de Janeiro - IFRJ)</li>
