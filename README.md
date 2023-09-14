@@ -64,7 +64,7 @@ Well, that's a fairly straightforward story of my software engineering journey. 
   </ul>
 </details>
 
-### Everything I've used to build something
+### Tools I've used to solve problems
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
