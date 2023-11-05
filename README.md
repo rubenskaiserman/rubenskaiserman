@@ -37,9 +37,9 @@ Well, that's a fairly straightforward story of my software engineering journey. 
 <details>
   <summary><h3>Studies<h3></summary>
   <ul>
-    <li>Bach. Mathematical Sciences (Federal University of Rio de Janeiro - UFRJ)</li>
-    <li>Técnico. Informática (Federal Institute of Rio de Janeiro - IFRJ)</li>
-    <li>Scientific Initiation Program on Mathematics (National Institute of Pure and Applied Mathematics - IMPA)</li>
+    <li>Mathematical Sciences Undergraduate Student (Federal University of Rio de Janeiro - UFRJ)</li>
+    <li>Computer Science Technician (Federal Institute of Rio de Janeiro - IFRJ)</li>
+    <li>Scientific Initiation Program on Mathematics (Brazilian National Institute of Pure and Applied Mathematics - IMPA)</li>
     <li>Web Courses + Self taught stuff. Software Development and Computer Science in general</li>
   <ul>
 </details>
