@@ -1,5 +1,5 @@
 # Rubens Kaiserman
-**`FullStack Software Engineer`** **`Mathematical Sciences Undergraduate Student`** **`Computer Science Technician`**
+**`Software Engineer`** **`Mathematical Sciences Undergraduate Student`** **`Computer Science Technician`**
 
 Hey, I'm Rubens Kaiserman, a fullstack developer specializing in AI-integrated solutions. I've been in the software world for three years now, wearing different hats along the way. I started off as a Flutter mobile developer, then shifted gears to web development using JavaScript to create components within existing systems.
 
@@ -28,12 +28,9 @@ Well, that's a fairly straightforward story of my software engineering journey. 
 <details>
   <summary><h3>Experience<h3></summary>
   <ul>
-    <li>FullStack Software Engineer (AWS Lambda, NestJS, MySQL, AWS Dynamo, NextJS, React, RPA with Python, Alexa Skills Kit  & More)</li>
-    <li>FullStack Web Developer Freelancer (FullStack ReactJS + Express, JS)</li>
-    <li>FullStack Web Developer Freelancer (Fullstack Flask + HTML, CSS, JS)</li>
-    <li>Monitor de Programação IFRJ (Java + MySQL)</li>
-    <li>Front End Intern (HTML, CSS, JS)</li>
-    <li>Mobile Developer (Dart, Flutter + Google Firebase)</li>
+    <li>FullStack Software Engineer</li>
+    <li>Web Design Intern</li>
+    <li>Research Program Mobile Developer</li>
   </ul>
 </details>
 
