@@ -1,5 +1,5 @@
 # Rubens Kaiserman
-**`Software Engineer`** **`Mathematical Sciences Undergraduate Student`** **`Computer Science Technician`**
+**`Programmer`** **`Math Sciences Undergrad`**
 
 Hey, I'm Rubens Kaiserman, a fullstack developer specializing in AI-integrated solutions. I've been in the software world for three years now, wearing different hats along the way. I started off as a Flutter mobile developer, then shifted gears to web development using JavaScript to create components within existing systems.
 
