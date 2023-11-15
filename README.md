@@ -1,13 +1,7 @@
 # Rubens Kaiserman
 **`Programmer`** **`Math Sciences Undergrad`**
 
-Hey, I'm Rubens Kaiserman, a fullstack developer specializing in AI-integrated solutions. I've been in the software world for three years now, wearing different hats along the way. I started off as a Flutter mobile developer, then shifted gears to web development using JavaScript to create components within existing systems.
-
-I then transitioned into backend work, creating entire systems. At first, I worked with Flask, building APIs and connecting to MySQL databases. Nowadays, I've embraced TypeScript and React for the frontend, and TypeScript with NestJS for the backend.
-
-Lately, I've been focused on the SaaS model for my system development adventures, enjoying the challenges it brings. Currently, I have the privilege to work with Google Cloud for Startups, where I have the opportunity to develop solutions with Google Cloud infrastructure incentives and stacks. AWS also rings a bell – I've worked with Lambda functions, DynamoDB for data storage, S3 for file storage, and utilized Cognito for user authentication on some projects.
-
-Well, that's a fairly straightforward story of my software engineering journey. Of course, I've done a lot more, and there are many more details in everything, but that's about it. I really enjoy coding, and I'm excited about all the things happening in the world right now. I hope to build a lot of new things real soon.
+Hello there. I'm currently working as a software developer, diving into Large Language Models (LLM) integration within SaaS. I cover a range of tech domains – fullstack development, data analysis, robotic process automation, Cloud Infrastructure Management, and more. Feel free to reach out on social media; we can chat about code, maths, physics, backend development, coding challenges, history, or anything else. Currently balancing software duties with part-time work while pursuing a Bachelors of Science Degree in Mathematical Sciences at the Federal University of Rio de Janeiro. Nice to meet you all.
 
 ### What I've been using
 <div style="display: inline_block"><br>
