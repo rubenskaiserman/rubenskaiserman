@@ -1,8 +1,6 @@
 # Rubens Kaiserman
 **`Data Analyst`** **`Scientific Computing Undergrad`** **`Computer Science Technician`**
 
-Average minimal-dependency code enjoyer
-
 
 ### _Languages and Tools_
 <div style="display: inline_block"><br>
