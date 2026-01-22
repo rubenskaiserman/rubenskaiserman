@@ -1,5 +1,5 @@
 # Rubens Kaiserman
-**`ML Engineer`** **`ML Applied Mathematics Graduate Student`** **`BSc Applied Mathematics/Sc. Computing`** **`Computer Science Technician`**
+**`ML Engineer`** **`ML Applied Mathematics Graduate`** **`BSc Applied Mathematics`** **`Computer Science Technician`**
 
 
 ### _Languages and Tools_
