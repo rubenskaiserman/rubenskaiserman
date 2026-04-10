@@ -1,7 +1,7 @@
 # Rubens Kaiserman
 
 **Machine Learning Engineer**  
-**MSc in Applied Mathematics**  
+**MSc in Computational Mathematics**  
 **BSc in Applied Mathematics | Computer Science Technician**
 
 ---
